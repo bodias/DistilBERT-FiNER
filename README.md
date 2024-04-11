@@ -8,6 +8,7 @@
 ## How to train the model
 
 Execute the whole jupyter notebook `FiNER_fine_tune.ipynb`. It will generate a ONNX model that later can be used for the demo application.
+The file can be executed also on Google Colab.
 
 ## How to test the model
 
